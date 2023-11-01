@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "react": "link:../node_modules/react",
+    "react": "0.14.10",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.0.1",
     "rehooks": "link:.."
